@@ -183,18 +183,6 @@ const arindam = {
   <br/>
 </details>
 
-<br/>
-
-<!-- 3D Contribution Graph -->
-<details>
-  <summary><b>&nbsp;🌐 3D Contribution Graph&nbsp;</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-  </div>
-  <br/>
-</details>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
