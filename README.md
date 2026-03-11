@@ -123,30 +123,20 @@
 
 ### 📊 Engineering Telemetry & Analytics
 
-<p align="center">
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legalfaqr&theme=tokyonight" />
+</div>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legalfaqr&theme=tokyonight"/>
-
-</p>
-
-# ⚡ Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<br>
 
 #### 🧊 3D Contribution Matrix
 <div align="center">
@@ -165,6 +155,10 @@
     <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
   </picture>
 </div>
+
+---
+
+### ⚡ Latest GitHub Activity
 
 ---
 
