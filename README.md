@@ -1,33 +1,29 @@
-<!-- PROFILE BANNER -->
+<!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arindam%20Bhattacharya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arindam%20Bhattacharya&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Arindam Bhattacharya</h1>
+<h1 align="center">Hi 👋, I'm Arindam Bhattacharya</h1>
 
-<h3 align="center">
-AI Developer • Developer Tools Builder • Hackathon Enthusiast
-</h3>
+<h3 align="center">AI Developer • Developer Tools Builder • Hackathon Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Developer+Tools+Builder;Security+Automation+Engineer;Open+Source+Contributor;Hackathon+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Security+Automation+Engineer;Developer+Tools+Builder;Open+Source+Contributor;Hackathon+Builder"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 I build **AI systems, developer tools, and security platforms**.
+🚀 I build **AI systems, developer tools, and security platforms**
 
-⚡ I enjoy turning **ambitious ideas into production-grade software**.
-
-### Interests
+⚡ Passionate about:
 
 * 🤖 AI-powered developer tools
-* 🔐 Security automation for open source
-* 🏗 Full-stack system architecture
-* 🚀 Building scalable developer platforms
+* 🔐 Security automation
+* 🏗 Full-stack architecture
+* 🚀 Large-scale developer platforms
 
 ---
 
@@ -35,92 +31,76 @@ AI Developer • Developer Tools Builder • Hackathon Enthusiast
 
 ## 🖥 AASK IDE
 
-A **visual Figma-style IDE for building React / Next.js applications**.
+A **visual Figma-style IDE** for building React / Next.js apps.
 
-Developers can visually design UIs while generating **real production-ready React code**.
-
-### Key Features
-
-✔ Drag-and-drop UI builder
-✔ Deterministic canvas → React code generation
-✔ Monaco editor integration
-✔ Visual + code editing in real time
-✔ Extension marketplace
-✔ Integrated terminal and Git tools
+Developers can design interfaces visually while generating **production-ready code**.
 
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,rust,fastapi,docker&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,rust,fastapi,docker"/>
 </p>
 
 ---
 
 ## 🛡 GUARD.AI
 
-An **AI-powered GitHub security review system**.
+AI-powered **GitHub PR security analyzer**.
 
-Automatically analyzes pull requests and issues to detect **low-effort, AI-generated, and malicious contributions**.
+Detects:
 
-### Capabilities
-
-✔ Detects spam PRs
-✔ Detects AI-generated contributions
-✔ Detects malicious code patterns
-✔ Automatically labels / comments / closes PRs
-✔ Real-time GitHub webhook analysis
+* low-effort contributions
+* AI-generated PRs
+* malicious code
+* spam PRs
 
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,mongodb,aws,docker&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,mongodb,aws,docker"/>
 </p>
 
 ---
 
 # 🏆 Hackathons
 
-I enjoy building **rapid prototypes and real products during hackathons**.
+Participated in:
 
-🏁 Participated in
-
-* 🥇 GGI Hackathon
-* 🥈 CGC Hackathon
-* 🏆 Thapar University Hackathon
-
-Many of my projects start as **hackathon prototypes**.
+🥇 GGI Hackathon
+🥈 CGC Hackathon
+🏆 Thapar University Hackathon
 
 ---
 
-# 🛠 Skills & Technologies
+# 🛠 Skills
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust"/>
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi"/>
 </p>
 
 ### Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,linux,git,githubactions&perline=6"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,linux,git,githubactions"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github&perline=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -152,24 +132,13 @@ Many of my projects start as **hackathon prototypes**.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
-
----
-
-# 🧠 Current Focus
-
-Currently working on
-
-🤖 AI-powered developer tools
-🔐 Open-source security automation
-⚙ Full-stack AI applications
-🧠 Advanced system architecture
 
 ---
 
@@ -183,7 +152,7 @@ Currently working on
 
 ---
 
-# 💬 Random Developer Quote
+# 💬 Dev Quote
 
 <p align="center">
 
@@ -195,8 +164,6 @@ Currently working on
 
 # 🐍 Contribution Snake
 
-This animation will automatically generate once you add the GitHub Action.
-
 ![Snake animation](https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake.svg)
 
 ---
@@ -206,7 +173,7 @@ This animation will automatically generate once you add the GitHub Action.
 <p align="center">
 
 <a href="https://github.com/legalfaqr">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -214,9 +181,7 @@ This animation will automatically generate once you add the GitHub Action.
 ---
 
 <p align="center">
-
-⭐ If you like my projects, consider starring them!
-
+⭐ If you like my work, consider starring my repositories!
 </p>
 
 <!-- FOOTER -->
