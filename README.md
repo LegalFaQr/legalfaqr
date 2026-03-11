@@ -1,8 +1,3 @@
-<!-- HEADER WAVE — mirrors footer: same color gradient, placed at top edge -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:007CF0,70:8B5CF6,100:00F7FF&height=140&section=footer&reversal=true" width="100%" />
-</div>
-
 <div align="center">
 
 <!-- HEADER: Venom blob -->
