@@ -33,43 +33,47 @@
 
 ### Who dis?
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRsOHF0Z3B2cWVlbTd5Ynp1d2FnNm1mOW5ldWxlY3Z3dXhkNjhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="man working" />
+</div>
+
+<br/>
+
 <table align="center" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
 
 ```js
 const arindam = {
-  name:      "Arindam Bhattacharya",
-  base:      "Zirakpur, Punjab 🇮🇳",
-  age:       "old enough to know better, young enough to ship anyway",
+  location:  "Zirakpur, Punjab 🇮🇳",
+  role:      "the guy who builds tools that build things",
+  currently: "making an IDE smarter than me",
+  vibe:      "ship fast, break nothing, look cool doing it",
+  
+  building: {
+    "AASK IDE":  "Photoshop meets VS Code — visual canvas → real code",
+    "GUARD.AI":  "AI bouncer for GitHub repos — catches bad PRs",
+    "AIM":       "a whole new language because why not",
+  },
 
-  by_day:    "building an IDE that makes IDEs obsolete",
-  by_night:  "debugging the thing I built by day",
-
-  stack: "whatever gets the job done (currently: everything)",
-  coffee: "yes. always. no i will not elaborate.",
-
-  lowkey_flexes: [
-    "built AASK IDE from scratch — canvas to real code",
-    "GUARD.AI caught real threats on day one",
-    "3x hackathon podiums without losing sleep (lied)",
-    "invented my own programming language mid-project",
+  fun_facts: [
+    "I mass mass mass mass mass mass code",
+    "My IDE will replace me someday and I'm fine with it",
+    "I think in components and dream in ASTs",
+    "Hackathon wins: yes. Sleep during hackathons: no.",
   ],
-
-  currently_obsessed_with: "making AI do the boring parts so I don't have to",
-
-  if_you_re_reading_this: "hire me or collab — either is fine",
 };
 ```
 
     </td>
-    <td width="42%" valign="top" align="center">
+    <td width="45%" valign="top" align="center">
       <br/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo0NGs2MjFrNnhhdm1oaHdtajI2cXFqMHcyb251NmVlanR0eHN4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="250" alt="programmer" />
+      <br/><br/>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="280" alt="Spotify" />
       <br/>
       <sub>what's playing while I ship</sub>
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=280&height=40&lines=open+to+collabs+%F0%9F%A4%9D;currently%3A+building+AASK+IDE;based+in+Punjab+%F0%9F%87%AE%F0%9F%87%B3" alt="status" />
     </td>
   </tr>
 </table>
@@ -102,6 +106,12 @@ const arindam = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpibmd3cWRhbGJ3MWJhaWtjN2V4b2F4bmhqeXJyYTg2OHNncmJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="480" alt="typing code" />
+</div>
+
+<br/>
 
 ### What I'm Building
 
@@ -166,6 +176,12 @@ const arindam = {
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3NjJ0bGNyeTB3bnltMXA0ZWNucWh1NmtxdTJzdWN4aW4xeTBjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="480" alt="hacker vibes" />
+</div>
+
+<br/>
+
 ### GitHub
 
 <!-- The metrics SVG is the ONLY accurate source of commit/contribution data.
@@ -182,6 +198,16 @@ const arindam = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
+
+### Recent Activity
+
+<!-- ACTIVITY:START -->
+1. ❗ Opened issue [#1](https://github.com/Lucifer181462/Merc-Benz-Project-CST/issues/1) in [Lucifer181462/Merc-Benz-Project-CST](https://github.com/Lucifer181462/Merc-Benz-Project-CST)
+<!-- ACTIVITY:END -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
