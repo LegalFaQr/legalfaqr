@@ -33,10 +33,6 @@
 
 ### Who dis?
 
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="top">
-
 ```js
 const arindam = {
   name:      "Arindam Bhattacharya",
@@ -62,17 +58,11 @@ const arindam = {
 };
 ```
 
-    </td>
-    <td width="42%" valign="top" align="center">
-      <br/>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="280" alt="Spotify" />
-      <br/>
-      <sub>what's playing while I ship</sub>
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=280&height=40&lines=open+to+collabs+%F0%9F%A4%9D;currently%3A+building+AASK+IDE;based+in+Punjab+%F0%9F%87%AE%F0%9F%87%B3" alt="status" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="300" alt="Spotify — now playing" />
+  <br/>
+  <sub>what's playing while I ship</sub>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
