@@ -1,200 +1,102 @@
-<!-- HEADER -->
+<div align="center">
+  <h1>Hi 👋, I'm Arindam Bhattacharya</h1>
+  <h3>AI Developer • Builder • Hackathon Enthusiast</h3>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+System+Architect;Developer+Tools+Builder;Open+Source+Contributor;Security+Automation+Engineer;Hackathon+Addict" alt="Typing SVG" />
+  </p>
 
-<h1 align="center">Hi 👋, I'm Arindam Bhattacharya</h1>
-
-<h3 align="center">
-AI Developer • Builder • Hackathon Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Developer+Tools+Builder;Open+Source+Contributor;Security+Automation+Engineer;Hackathon+Builder" />
-</p>
-
----
-
-# 🧠 About Me
-
-🚀 I build **AI systems, developer tools, and security platforms** that solve real-world problems.
-
-⚡ I enjoy turning **ambitious ideas into real working software**.
-
-### Interests
-
-- 🤖 AI-powered developer tools  
-- 🔐 Security automation for open source  
-- 🏗 Full-stack system architecture  
-- 🚀 Building production-grade platforms  
+  <p>
+    <a href="https://github.com/legalfaqr">
+      <img src="https://img.shields.io/github/followers/legalfaqr?label=Follow&style=social" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+### 🧠 About Me
+🚀 I specialize in building **AI systems, developer tools, and security platforms** that bridge the gap between complex backend logic and seamless user experiences. I thrive in the fast-paced environment of hackathons, turning "what if" into production-grade prototypes.
 
-## 🖥 AASK IDE
-
-A **visual Figma-style IDE for building React / Next.js applications**.
-
-Developers can **design interfaces visually while generating production-ready React code automatically**.
-
-### Key Features
-
-✔ Drag-and-drop UI builder  
-✔ Deterministic **canvas → React code generation**  
-✔ Monaco editor (VS Code engine)  
-✔ Visual + code editing in real time  
-✔ Extension marketplace  
-✔ Integrated terminal & Git tools  
-
-### Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,rust,fastapi,docker&perline=6" />
-
-</p>
+- 🤖 **Current Focus:** AI-powered developer productivity & LLM orchestration.
+- 🔐 **Security:** Automating threat detection for open-source ecosystems.
+- 🏗 **Architecture:** Designing scalable, deterministic full-stack systems.
+- ⚡ **Philosophy:** Code should be as beautiful as the UI it powers.
 
 ---
 
-## 🛡 GUARD.AI
+### 🛠 Tech Stack & Skills
 
-An **AI-powered GitHub security review system** that automatically analyzes pull requests and issues.
-
-### Capabilities
-
-✔ Detects low-effort contributions  
-✔ Detects AI-generated PRs  
-✔ Detects malicious code patterns  
-✔ Automatically labels / comments / closes PRs  
-✔ Real-time GitHub webhook analysis  
-
-### Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,mongodb,aws,docker&perline=6" />
-
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![](https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp) |
+| **Frontend** | ![](https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs) |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,fastapi,express,flask) |
+| **Cloud/DevOps** | ![](https://skillicons.dev/icons?i=aws,docker,mongodb,postgres,githubactions,linux) |
+| **Design/Tools** | ![](https://skillicons.dev/icons?i=figma,vscode,postman,git) |
 
 ---
 
-# 🏆 Hackathons
+### 🚀 Featured Projects
 
-I enjoy building **rapid prototypes and real systems during hackathons**.
+#### 🖥 [AASK IDE](https://github.com/legalfaqr)
+*A visual Figma-style IDE for modern web development.*
+- **The Magic:** Design interfaces visually while generating production-ready React/Next.js code.
+- **Features:** Drag-and-drop UI, Integrated Monaco Editor, Real-time terminal, and Rust-powered performance.
+- **Stack:** `Next.js` `Rust` `TypeScript` `FastAPI` `Docker`
 
-🏁 Participated in:
-
-- 🥇 **GGI Hackathon**
-- 🥈 **CGC Hackathon**
-- 🏆 **Thapar University Hackathon**
-
-Many of my projects originate from **hackathon experiments that evolve into full platforms**.
-
----
-
-# 🛠 Skills & Technologies
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&perline=6" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&perline=6" />
-</p>
-
-### DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,linux,git,githubactions&perline=6" />
-</p>
-
-### Tools & Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github&perline=6" />
-</p>
+#### 🛡 [GUARD.AI](https://github.com/legalfaqr)
+*Autonomous GitHub Security Reviewer.*
+- **The Magic:** Uses LLMs to analyze PRs for malicious patterns, low-effort "spam" contributions, and AI-generated bloat.
+- **Impact:** Automatically labels, comments, and flags suspicious activity via real-time webhooks.
+- **Stack:** `React` `FastAPI` `MongoDB` `AWS` `GitHub API`
 
 ---
 
-# 📊 GitHub Statistics
+### 🏆 Hackathon Milestones
+*I love the 24-hour grind. It’s where my best ideas are born.*
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+* 🥇 **GGI Hackathon** – Winner / Top Tier Build
+* 🥈 **CGC Hackathon** – Runner Up
+* 🏆 **Thapar University Hackathon** – Innovative Solution Award
 
 ---
 
-# 🔥 GitHub Streak
+### 📊 Vital Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+### 🤝 Connect With Me
+<div align="center">
+  <a href="https://github.com/legalfaqr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
+<br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# ⚡ Current Focus
-
-Currently working on:
-
-🤖 AI-powered developer platforms  
-🔐 Open-source security automation  
-⚙ Full-stack AI applications  
-🧠 Advanced system architecture  
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/legalfaqr">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you like my projects, consider starring them!
-
-</p>
+<div align="center">
+  <sub>Built with ❤️ and a lot of ☕ by Arindam Bhattacharya</sub>
+</div>
