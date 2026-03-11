@@ -6,7 +6,7 @@ on:
   workflow_dispatch:    # Allows manual triggering
 
 permissions:
-  contents: write       # CRITICAL: Allows the bot to save changes to the README
+  contents: write       # CRITICAL: Allows the bot to save changes
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -20,6 +20,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
