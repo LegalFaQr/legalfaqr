@@ -135,16 +135,25 @@ I design **systems, not just software**. My focus is building **AI-assisted engi
 ---
 
 # 📊 Engineering Telemetry
+<div align="center">
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true"/>
-</p>
----
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=legalfaqr&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 # 🧊 3D Contribution Matrix
 
