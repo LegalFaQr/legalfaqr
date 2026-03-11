@@ -40,7 +40,6 @@
         <li>Architecting the <b>AASK IDE core engine</b></li>
         <li>Training AI models for <b>code security analysis</b></li>
         <li>Building <b>cloud-native OSS infrastructure</b></li>
-        <li>Maintaining open-source frameworks</li>
       </ul>
     </td>
   </tr>
