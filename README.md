@@ -146,8 +146,8 @@ const arindam = {
 
 | Competition | Result | Project | Domain |
 | :--- | :---: | :---: | :--- |
-| **GGI Hackathon** | 🥇 Top Tier | AASK IDE | Developer Infrastructure |
-| **CGC Hackathon** | 🥇 Top Tier | GUARD.AI | AI Security Automation |
+| **GGI Hackathon** | 🥇 Top Tier | AASK IDE | Developer Infrastructure | <a href="https://aask-web-final.vercel.app/"> AASK IDE </a> |
+| **CGC Hackathon** | 🥇 Top Tier | GUARD.AI | AI Security Automation | <a href="https://aask-web-final.vercel.app/"> GUARD.AI </a> |
 | **Thapar University** | 🥇 Top Tier | AASK Tech | Full-Stack Prototype |
 
 </div>
