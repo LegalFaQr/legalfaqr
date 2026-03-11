@@ -145,9 +145,8 @@ I design **systems, not just software**. My focus is building **AI-assisted engi
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legalfaqr&theme=tokyonight" />
 </p>
-
 # 🧊 3D Contribution Matrix
 
 <div align="center">
