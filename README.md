@@ -82,11 +82,15 @@
       <div align="center">
         <img src="https://img.shields.io/badge/AASK_IDE-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
       </div>
-      <p align="center"><b>Visual Figma-style IDE for React / Next.js</b></p>
+      <p align="center"><b>Visual Photoshop-style IDE for the AIM -> (all programming languages) Currently working on -> React / Next.js</b></p>
       <ul>
+        <li>AI Integrated</li>
+        <li>Custom Component Marketplace</li>
+        <li>Industry revolutionizing source control with OAuth and graph management (NO IDE HAS IT OTHER THAN US)</li>
         <li>Drag-and-drop visual builder</li>
         <li>Deterministic <b>Canvas → Code compiler</b></li>
         <li>Monaco editor + integrated terminal</li>
+        <li>And much more is being added everyday</li>
       </ul>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,rust,fastapi,docker" height="40" />
@@ -116,9 +120,9 @@
 
 | Event | Rank | Focus |
 | :--- | :---: | :--- |
-| **GGI Hackathon** | 🥇 Winner | Developer Infrastructure |
-| **CGC Hackathon** | 🥈 Runner Up | AI Security Automation |
-| **Thapar University Hackathon** | 🏆 Top Tier | Full-Stack System Prototype |
+| **GGI Hackathon** | 🏆 Top Tier (AASK IDE) | Developer Infrastructure |
+| **CGC Hackathon** | 🏆 Top Tier (GUARD.AI) | AI Security Automation |
+| **Thapar University Hackathon** | 🏆 Top Tier (AASK Tech) | Full-Stack System Prototype |
 
 ---
 
