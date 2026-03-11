@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=%E2%9A%A1+Building+the+IDE+that+builds+itself;%F0%9F%94%92+Autonomous+AI+agents+securing+open+source;%F0%9F%8E%AF+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code;%F0%9F%8C%8D+From+Punjab+to+the+global+dev+ecosystem;%F0%9F%A7%AC+Architecting+systems%2C+not+just+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=%E2%9A%A1+Building+the+IDE+that+builds+itself;%F0%9F%94%92+Autonomous+AI+agents+securing+open+source;%F0%9F%8E%AF+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code;%F0%9F%8C%8D+From+Kolkata+to+the+global+dev+ecosystem;%F0%9F%A7%AC+Architecting+systems%2C+not+just+software" alt="Typing SVG" />
 
 <br/>
 
@@ -31,46 +31,45 @@
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
 
-### Who dis?
+### About
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRsOHF0Z3B2cWVlbTd5Ynp1d2FnNm1mOW5ldWxlY3Z3dXhkNjhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="man working" />
-</div>
+```rust
+pub struct Engineer {
+    name:     &'static str,
+    role:     &'static str,
+    location: &'static str,
+    systems:  &'static [&'static str],
+}
 
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-
-```js
-const arindam = {
-  location:  "Zirakpur, Punjab 🇮🇳",
-  role:      "the guy who builds tools that build things",
-  currently: "making an IDE smarter than me",
-  vibe:      "ship fast, break nothing, look cool doing it",
-  
-  building: {
-    "AASK IDE":  "Photoshop meets VS Code — visual canvas → real code",
-    "GUARD.AI":  "AI bouncer for GitHub repos — catches bad PRs",
-    "AIM":       "a whole new language because why not",
-  },
-
-  fun_facts: [
-    "I mass mass mass mass mass mass code",
-    "My IDE will replace me someday and I'm fine with it",
-    "I think in components and dream in ASTs",
-    "Hackathon wins: yes. Sleep during hackathons: no.",
-  ],
+pub const ARINDAM: Engineer = Engineer {
+    name:     "Arindam Bhattacharya",
+    role:     "System Architect & AI Engineer",
+    location: "Kolkata, India",
+    systems: &[
+        "AASK IDE    — Visual IDE with Canvas → AST → Code compilation",
+        "GUARD.AI    — Autonomous LLM-powered GitHub security enforcement",
+        "AIM         — Deterministic visual-to-code language spec",
+    ],
 };
 ```
 
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
+> *I design systems, not just software.*
+>
+> My work targets the intersection of **AI-assisted developer infrastructure**, autonomous security, and tooling that ships to production. Every architecture decision is intentional.
+
+**Currently shipping:**
+- **AASK IDE** — The visual IDE with a deterministic Canvas → Code compiler
+- **GUARD.AI** — LLM-powered security reviewer for OSS repositories
+- **Cloud-native OSS infrastructure** at scale
+- Researching **deterministic AI compilation pipelines**
+
     </td>
-    <td width="45%" valign="top" align="center">
+    <td width="40%" valign="top" align="center">
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo0NGs2MjFrNnhhdm1oaHdtajI2cXFqMHcyb251NmVlanR0eHN4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="250" alt="programmer" />
-      <br/><br/>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="280" alt="Spotify" />
       <br/>
       <sub>what's playing while I ship</sub>
@@ -106,12 +105,6 @@ const arindam = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpibmd3cWRhbGJ3MWJhaWtjN2V4b2F4bmhqeXJyYTg2OHNncmJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="480" alt="typing code" />
-</div>
-
-<br/>
 
 ### What I'm Building
 
@@ -175,12 +168,6 @@ const arindam = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3NjJ0bGNyeTB3bnltMXA0ZWNucWh1NmtxdTJzdWN4aW4xeTBjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="480" alt="hacker vibes" />
-</div>
-
-<br/>
 
 ### GitHub
 
