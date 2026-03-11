@@ -160,6 +160,7 @@
 
 ### ⚡ Latest GitHub Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Lucifer181462/Merc-Benz-Project-CST/issues/1) in [Lucifer181462/Merc-Benz-Project-CST](https://github.com/Lucifer181462/Merc-Benz-Project-CST)
 <!--END_SECTION:activity-->
 ---
 
