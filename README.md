@@ -1,3 +1,8 @@
+<!-- HEADER WAVE — mirrors footer: same color gradient, placed at top edge -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:007CF0,70:8B5CF6,100:00F7FF&height=140&section=footer&reversal=true" width="100%" />
+</div>
+
 <div align="center">
 
 <!-- HEADER: Venom blob -->
@@ -179,6 +184,18 @@ const arindam = {
   <br/>
   <div align="center">
     <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Deep Metrics" />
+  </div>
+  <br/>
+</details>
+
+<br/>
+
+<!-- 3D Contribution Graph -->
+<details>
+  <summary><b>&nbsp;🌐 3D Contribution Graph&nbsp;</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
   </div>
   <br/>
 </details>

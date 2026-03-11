@@ -1,12 +1,8 @@
-# ═══════════════════════════════════════════════════════════════════════════
-# DISABLED — 3D contribution graph is no longer used in the profile README.
-# Kept for reference. To re-enable, uncomment the schedule trigger below.
-# ═══════════════════════════════════════════════════════════════════════════
-name: Generate 3D Contribution Graph (disabled)
+name: Generate 3D Contribution Graph
 
 on:
-  # schedule:
-  #   - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,7 +28,10 @@ jobs:
           SETTING_JSON: |-
             {
               "githubUserName": "legalfaqr",
-              "type": "nightRainbow"
+              "type": "nightRainbow",
+              "angle": 20,
+              "width": 1600,
+              "height": 600
             }
 
       - name: Commit and Push
