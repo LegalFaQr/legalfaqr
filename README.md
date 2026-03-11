@@ -40,13 +40,15 @@
         <li>Architecting the <b>AASK IDE core engine</b></li>
         <li>Training AI models for <b>code security analysis</b></li>
         <li>Building <b>cloud-native OSS infrastructure</b></li>
+        <li>Maintaining open-source frameworks</li>
       </ul>
-      <div align="center">
-        <img src="https://novatorem.vercel.app/api/spotify?theme=tokyonight&color=00F7FF" width="240" alt="Spotify Now Playing" />
-      </div>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?theme=tokyonight&color=00F7FF" width="280" alt="Spotify Now Playing" />
+</div>
 
 ---
 
@@ -123,18 +125,22 @@
 
 ### 📊 Engineering Telemetry & Analytics
 
-<div align="center">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legalfaqr&theme=tokyonight" />
-</div>
+<details>
+  <summary><b>📈 Click to expand: Deep Profile Summary Cards</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legalfaqr&theme=tokyonight" />
+  </div>
+</details>
 
 <br>
 
@@ -142,11 +148,9 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-view.svg">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
+    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="850"/>
   </picture>
 </div>
-
-<br>
 
 #### 🐍 Contribution Snake
 <div align="center">
@@ -159,18 +163,15 @@
 ---
 
 ### ⚡ Latest GitHub Activity
-<!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/Lucifer181462/Merc-Benz-Project-CST/issues/1) in [Lucifer181462/Merc-Benz-Project-CST](https://github.com/Lucifer181462/Merc-Benz-Project-CST)
-<!--END_SECTION:activity-->
 ---
 
 ### 🤝 Establish Connection
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/notlegalfaqr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:legalfaqr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/legalfaqr"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 <br>
