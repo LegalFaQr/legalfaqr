@@ -53,7 +53,7 @@ jobs:
 
           # ── Coding Habits: commit-hour heatmap & day-of-week chart ──────
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 30
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -71,12 +71,12 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: no
 
           # ── Achievements ────────────────────────────────────────────────
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
 
           # ── Follow-up: open/closed ratio for issues & PRs ──────────────
           plugin_followup: yes

@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: Venom bubble effect — the floating blob behind the name -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=00F7FF" width="100%" />
+<!-- HEADER: Venom blob + twinkling particles for multi-bubble effect -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=00F7FF" width="100%" />
 
 <br/>
 
@@ -156,64 +156,22 @@ pub const ARINDAM: Engineer = Engineer {
 
 ---
 
-### GitHub Stats
+### GitHub
 
-<!-- ALL cards below use count_private=true & include_all_commits=true -->
-<!-- They show DIFFERENT dimensions: overview numbers / streak / languages -->
+<!-- The metrics SVG is the ONLY accurate source of commit/contribution data.
+     github-readme-stats undercounts because it uses GitHub's public GraphQL
+     API which is rate-limited and misses many private/org commits.
+     lowlighter/metrics with GH_PAT clones actual repos → accurate numbers. -->
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00F7FF&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=All-Time%20Stats%20(incl.%20private)" />
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Metrics — all commits, languages, habits, contributions (private repos included)" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8&count_private=true&custom_title=Top%20Languages%20(all%20repos)" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=12&count_private=true&custom_title=Language%20Breakdown%20(%25)" />
+  <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
 </div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" width="100%" />
-</div>
-
-<br/>
-
-<!-- Activity graph — commit frequency timeline (unique to everything above) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=react-dark&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=00F7FF&area_color=007CF0&area=true&hide_border=true&custom_title=Contribution%20Timeline%20(all%20commits)" width="97%" />
-</div>
-
-<br/>
-
-<!-- Productive time + commit language breakdown — data not shown anywhere else -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=legalfaqr&theme=tokyonight&utcOffset=5.5" />&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legalfaqr&theme=tokyonight" />
-</div>
-
-<br/>
-
-<!-- Full deep metrics — isocalendar, coding habits by hour/day, notable contributions,
-     language analysis by actual lines, follow-up ratio, traffic, lines changed.
-     ALL with private repo data via GH_PAT. -->
-<details>
-  <summary><b>&nbsp;🔬 Deep Metrics — coding habits, traffic, notable contributions (private repos included)&nbsp;</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Metrics" />
-  </div>
-  <br/>
-  <div align="center">
-    <sub>Auto-generated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> with <code>GH_PAT</code> — includes all private repository data</sub>
-  </div>
-  <br/>
-</details>
 
 ---
 
@@ -240,5 +198,5 @@ pub const ARINDAM: Engineer = Engineer {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:007CF0,85:00F7FF,100:0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:007CF0,100:00F7FF&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
