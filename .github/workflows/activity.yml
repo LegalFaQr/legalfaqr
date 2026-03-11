@@ -1,9 +1,8 @@
 name: Update GitHub Activity
+# DISABLED — activity feed removed from README, workflow no longer needed
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # manual only, effectively disabled
 
 permissions:
   contents: write
