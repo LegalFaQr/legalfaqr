@@ -1,29 +1,29 @@
-<!-- Animated Header -->
+<!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Arindam Bhattacharya</h1>
 
-<p align="center">
-🚀 Developer • AI Builder • Hackathon Enthusiast
-</p>
+<h3 align="center">
+AI Developer • Builder • Hackathon Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Building+Developer+Tools;Open+Source+Builder;Security+Automation+Engineer;Hackathon+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Developer+Tools+Builder;Open+Source+Contributor;Security+Automation+Engineer;Hackathon+Builder" />
 </p>
 
 ---
 
 # 🧠 About Me
 
-I build **AI systems, developer tools, and security platforms** that solve real-world problems.
+🚀 I build **AI systems, developer tools, and security platforms** that solve real-world problems.
 
-⚡ Things I enjoy working on
+⚡ I enjoy turning **ambitious ideas into real working software**.
 
-- AI-powered developer tooling  
-- Security automation for open source  
-- Large full-stack systems  
-- Building production-grade developer platforms  
+### Interests
 
-💡 I enjoy turning **ambitious ideas into working software**.
+- 🤖 AI-powered developer tools  
+- 🔐 Security automation for open source  
+- 🏗 Full-stack system architecture  
+- 🚀 Building production-grade platforms  
 
 ---
 
@@ -31,87 +31,116 @@ I build **AI systems, developer tools, and security platforms** that solve real-
 
 ## 🖥 AASK IDE
 
-**A visual Figma-style IDE for building React / Next.js apps**
+A **visual Figma-style IDE for building React / Next.js applications**.
 
-AASK allows developers to **design interfaces visually while generating real production-ready code**.
+Developers can **design interfaces visually while generating production-ready React code automatically**.
 
-### ✨ Highlights
+### Key Features
 
-• Drag-and-drop UI builder  
-• Deterministic **canvas → React code generation**  
-• Monaco editor (VS Code engine)  
-• Visual + code editing in real time  
-• Extension marketplace  
-• Integrated terminal & Git tools  
+✔ Drag-and-drop UI builder  
+✔ Deterministic **canvas → React code generation**  
+✔ Monaco editor (VS Code engine)  
+✔ Visual + code editing in real time  
+✔ Extension marketplace  
+✔ Integrated terminal & Git tools  
 
-### ⚙ Tech Stack
+### Tech Stack
 
-Next.js • React • TypeScript • Rust (Tauri)
-FastAPI • Docker • Monaco Editor
+<p>
 
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,rust,fastapi,docker&perline=6" />
+
+</p>
 
 ---
 
 ## 🛡 GUARD.AI
 
-**AI-powered GitHub security review system**
+An **AI-powered GitHub security review system** that automatically analyzes pull requests and issues.
 
-Automatically analyzes pull requests and issues to detect **spam, AI-generated content, and malicious contributions**.
+### Capabilities
 
-### 🔍 Capabilities
+✔ Detects low-effort contributions  
+✔ Detects AI-generated PRs  
+✔ Detects malicious code patterns  
+✔ Automatically labels / comments / closes PRs  
+✔ Real-time GitHub webhook analysis  
 
-• Detects low-effort PRs  
-• Detects AI-generated contributions  
-• Detects malicious code patterns  
-• Automatically labels / comments / closes PRs  
-• Real-time GitHub webhook analysis  
+### Tech Stack
 
-### ⚙ Tech Stack
+<p>
 
-Next.js • React • FastAPI
-MongoDB • AWS Bedrock
-Docker • AWS ECS
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,mongodb,aws,docker&perline=6" />
 
+</p>
 
 ---
 
 # 🏆 Hackathons
 
-I regularly participate in hackathons and build **production-ready prototypes quickly**.
+I enjoy building **rapid prototypes and real systems during hackathons**.
 
-🏁 Hackathons
+🏁 Participated in:
 
-• GGI Hackathon  
-• CGC Hackathon  
-• Thapar University Hackathon  
+- 🥇 **GGI Hackathon**
+- 🥈 **CGC Hackathon**
+- 🏆 **Thapar University Hackathon**
 
-Many of my projects start as **hackathon experiments** and evolve into full systems.
+Many of my projects originate from **hackathon experiments that evolve into full platforms**.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Skills & Technologies
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&perline=6" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&perline=6" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,linux,git,githubactions&perline=6" />
+</p>
+
+### Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github&perline=6" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,rust,docker,aws,mongodb,git,linux&perline=7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+<img src="https://streak-stats.demolab.com?user=legalfaqr&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Activity Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -121,14 +150,24 @@ Many of my projects start as **hackathon experiments** and evolve into full syst
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=legalfaqr&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
 # ⚡ Current Focus
 
-Currently working on
+Currently working on:
 
-• AI-powered developer platforms  
-• Open-source security automation  
-• Full-stack AI applications  
-• Advanced system architecture  
+🤖 AI-powered developer platforms  
+🔐 Open-source security automation  
+⚙ Full-stack AI applications  
+🧠 Advanced system architecture  
 
 ---
 
@@ -155,5 +194,7 @@ Currently working on
 ---
 
 <p align="center">
+
 ⭐ If you like my projects, consider starring them!
+
 </p>
