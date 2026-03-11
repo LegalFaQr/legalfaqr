@@ -33,6 +33,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          repositories_forks: yes
+          commits_authoring: legalfaqr, legalfaqr@gmail.com, legalfaqr@users.noreply.github.com
           config_timezone: Asia/Kolkata
           config_display: large
           config_animations: yes

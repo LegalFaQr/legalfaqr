@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- HEADER: Venom blob + twinkling particles for multi-bubble effect -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=00F7FF" width="100%" />
+<!-- HEADER: Venom blob -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=00F7FF" width="100%" />
+
+<!-- Animated floating bubbles rising from the header -->
+<img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" />
 
 <br/>
 
@@ -24,7 +27,9 @@
   </picture>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### About
 
@@ -72,7 +77,9 @@ pub const ARINDAM: Engineer = Engineer {
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### Tech Stack
 
@@ -95,7 +102,9 @@ pub const ARINDAM: Engineer = Engineer {
 </table>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### What I'm Building
 
@@ -140,7 +149,9 @@ pub const ARINDAM: Engineer = Engineer {
 </table>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### Hackathons
 
@@ -154,7 +165,9 @@ pub const ARINDAM: Engineer = Engineer {
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### GitHub
 
@@ -173,7 +186,9 @@ pub const ARINDAM: Engineer = Engineer {
   <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 ### Recent Activity
 
@@ -181,7 +196,9 @@ pub const ARINDAM: Engineer = Engineer {
 1. ❗ Opened issue [#1](https://github.com/Lucifer181462/Merc-Benz-Project-CST/issues/1) in [Lucifer181462/Merc-Benz-Project-CST](https://github.com/Lucifer181462/Merc-Benz-Project-CST)
 <!-- ACTIVITY:END -->
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/notlegalfaqr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
@@ -198,5 +215,6 @@ pub const ARINDAM: Engineer = Engineer {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:007CF0,100:00F7FF&height=150&section=footer&animation=twinkling" width="100%" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:007CF0,100:00F7FF&height=150&section=footer&animation=fadeIn" width="100%" />
 </div>
