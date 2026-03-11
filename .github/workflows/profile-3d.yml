@@ -1,8 +1,12 @@
-name: Generate 3D Contribution Graph
+# ═══════════════════════════════════════════════════════════════════════════
+# DISABLED — 3D contribution graph is no longer used in the profile README.
+# Kept for reference. To re-enable, uncomment the schedule trigger below.
+# ═══════════════════════════════════════════════════════════════════════════
+name: Generate 3D Contribution Graph (disabled)
 
 on:
-  schedule:
-    - cron: "0 18 * * *"
+  # schedule:
+  #   - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
