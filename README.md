@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Arindam%20Bhattacharya&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=System%20Architect%20%7C%20AI%20Engineer&descAlignY=55&descAlign=60" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=System%20Architect%20%7C%20AI%20Engineer&descAlignY=60" width="100%" />
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Architecting+Production-Grade+Systems;Engineering+AI+Security+Agents;Building+Deterministic+Visual+IDEs;Open+Source+Maintainer+%26+Hacker"/>
 </p>
