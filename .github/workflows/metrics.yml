@@ -41,10 +41,8 @@ jobs:
           config_order: >-
             base.header,
             isocalendar,
-            habits,
             languages,
             notable,
-            achievements,
             followup,
             lines,
             traffic
@@ -53,13 +51,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # ── Coding Habits: commit-hour heatmap & day-of-week chart ──────
-          plugin_habits: yes
-          plugin_habits_from: 30
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          # ── Coding Habits: disabled — consistently errors on @latest ───
+          plugin_habits: no
 
           # ── Languages (deep analysis — clones repos, counts real lines) ─
           plugin_languages: yes
@@ -75,10 +68,8 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_indepth: no
 
-          # ── Achievements ────────────────────────────────────────────────
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: A
+          # ── Achievements: disabled — consistently errors on @latest ────
+          plugin_achievements: no
 
           # ── Follow-up: open/closed ratio for issues & PRs ──────────────
           plugin_followup: yes
