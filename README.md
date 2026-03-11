@@ -122,7 +122,6 @@
 ---
 
 ### 📊 Engineering Telemetry & Analytics
-# 📊 Engineering Telemetry
 
 <p align="center">
 
@@ -144,19 +143,17 @@
 
 </p>
 
+# ⚡ Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 #### 🧊 3D Contribution Matrix
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-view.svg">
     <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
   </picture>
-</div>
-
-<br>
-
-#### 📈 Activity Graph
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=tokyo-night&hide_border=true&area=true&color=00F7FF" alt="Activity Graph"/>
 </div>
 
 <br>
