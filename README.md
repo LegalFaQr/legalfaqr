@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=%E2%9A%A1+Building+the+IDE+that+builds+itself;%F0%9F%94%92+Autonomous+AI+agents+securing+open+source;%F0%9F%8E%AF+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code;%F0%9F%8C%8D+From+Kolkata+to+the+global+dev+ecosystem;%F0%9F%A7%AC+Architecting+systems%2C+not+just+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=%E2%9A%A1+Building+the+IDE+that+builds+itself;%F0%9F%94%92+Autonomous+AI+agents+securing+open+source;%F0%9F%8E%AF+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code;%F0%9F%8C%8D+From+Punjab+to+the+global+dev+ecosystem;%F0%9F%A7%AC+Architecting+systems%2C+not+just+software" alt="Typing SVG" />
 
 <br/>
 
@@ -31,48 +31,45 @@
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
 </div>
 
-### About
-
-```rust
-pub struct Engineer {
-    name:     &'static str,
-    role:     &'static str,
-    location: &'static str,
-    systems:  &'static [&'static str],
-}
-
-pub const ARINDAM: Engineer = Engineer {
-    name:     "Arindam Bhattacharya",
-    role:     "System Architect & AI Engineer",
-    location: "Kolkata, India",
-    systems: &[
-        "AASK IDE    — Visual IDE with Canvas → AST → Code compilation",
-        "GUARD.AI    — Autonomous LLM-powered GitHub security enforcement",
-        "AIM         — Deterministic visual-to-code language spec",
-    ],
-};
-```
+### Who dis?
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
-> *I design systems, not just software.*
->
-> My work targets the intersection of **AI-assisted developer infrastructure**, autonomous security, and tooling that ships to production. Every architecture decision is intentional.
+```js
+const arindam = {
+  name:      "Arindam Bhattacharya",
+  base:      "Zirakpur, Punjab 🇮🇳",
+  age:       "old enough to know better, young enough to ship anyway",
 
-**Currently shipping:**
-- **AASK IDE** — The visual IDE with a deterministic Canvas → Code compiler
-- **GUARD.AI** — LLM-powered security reviewer for OSS repositories
-- **Cloud-native OSS infrastructure** at scale
-- Researching **deterministic AI compilation pipelines**
+  by_day:    "building an IDE that makes IDEs obsolete",
+  by_night:  "debugging the thing I built by day",
+
+  stack:     "whatever gets the job done (currently: everything)",
+  coffee:    "yes. always. no i will not elaborate.",
+
+  lowkey_flexes: [
+    "built AASK IDE from scratch — canvas to real code",
+    "GUARD.AI caught real threats on day one",
+    "3x hackathon podiums without losing sleep (lied)",
+    "invented my own programming language mid-project",
+  ],
+
+  currently_obsessed_with: "making AI do the boring parts so I don't have to",
+
+  if_you_re_reading_this:  "hire me or collab — either is fine",
+};
+```
 
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="42%" valign="top" align="center">
       <br/>
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="280" alt="Spotify" />
       <br/>
       <sub>what's playing while I ship</sub>
+      <br/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=280&height=40&lines=open+to+collabs+%F0%9F%A4%9D;currently%3A+building+AASK+IDE;based+in+Punjab+%F0%9F%87%AE%F0%9F%87%B3" alt="status" />
     </td>
   </tr>
 </table>
@@ -171,30 +168,30 @@ pub const ARINDAM: Engineer = Engineer {
 
 ### GitHub
 
-<!-- The metrics SVG is the ONLY accurate source of commit/contribution data.
-     github-readme-stats undercounts because it uses GitHub's public GraphQL
-     API which is rate-limited and misses many private/org commits.
-     lowlighter/metrics with GH_PAT clones actual repos → accurate numbers. -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Metrics — all commits, languages, habits, contributions (private repos included)" />
-</div>
-
-<br/>
-
+<!-- Streak — always accurate (reads contribution graph directly) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
 </div>
 
+<br/>
+
+<!-- Commits overview + language donut side by side -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Commits%20%26%20Stats%20(incl.%20private)" />&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8&count_private=true&custom_title=Languages" />
 </div>
 
-### Recent Activity
+<br/>
 
-<!-- ACTIVITY:START -->
-1. ❗ Opened issue [#1](https://github.com/Lucifer181462/Merc-Benz-Project-CST/issues/1) in [Lucifer181462/Merc-Benz-Project-CST](https://github.com/Lucifer181462/Merc-Benz-Project-CST)
-<!-- ACTIVITY:END -->
+<!-- Deep metrics — collapsed by default -->
+<details>
+  <summary><b>&nbsp;🔬 Deep Metrics &mdash; coding habits, notable contributions, line counts, traffic (private repos included)&nbsp;</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Deep Metrics" />
+  </div>
+  <br/>
+</details>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
@@ -215,6 +212,5 @@ pub const ARINDAM: Engineer = Engineer {
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:007CF0,100:00F7FF&height=150&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:007CF0,70:8B5CF6,100:00F7FF&height=120&section=footer&reversal=false" width="100%" />
 </div>
