@@ -1,20 +1,20 @@
 name: Generate GitHub Metrics
 
 # ─────────────────────────────────────────────────────────────────────────────
-# SETUP REQUIRED FOR PRIVATE CONTRIBUTION DATA:
+# SETUP — CREATE A PERSONAL ACCESS TOKEN (classic):
 #
-#   1. Go to https://github.com/settings/tokens/new
-#   2. Create a Classic token with scopes: repo, read:user, read:org
-#   3. Save it as a repository secret named:  GH_PAT
-#      (Settings → Secrets and variables → Actions → New repository secret)
+#   1. https://github.com/settings/tokens/new
+#   2. Scopes required:  repo, read:user, read:org, read:packages
+#   3. Save as repository secret:  GH_PAT
+#      (Settings → Secrets & variables → Actions → New repository secret)
 #
-#   Without GH_PAT, the workflow still runs but private repo contributions
-#   and language stats will not be included.
+#   With GH_PAT, ALL workflows see private repo commits, contributions,
+#   languages, and traffic. Without it they still run but only public data.
 # ─────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"          # daily at midnight UTC
   workflow_dispatch:
   push:
     branches: [main]
@@ -26,10 +26,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate Comprehensive GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # GH_PAT grants access to private repos; falls back to GITHUB_TOKEN
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           user: legalfaqr
           template: classic
@@ -38,23 +37,60 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           config_animations: yes
+          config_order: base.header, isocalendar, habits, languages, notable, achievements, followup
 
-          # ── Isometric commit calendar (full year, private included) ──────
+          # ── Isometric full-year calendar ─────────────────────────────────
+          # Shows commit frequency as a 3D isometric art piece (unique vis
+          # that no stats card or streak widget provides).
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # ── Language breakdown (includes private repos with GH_PAT) ──────
+          # ── Coding Habits ────────────────────────────────────────────────
+          # Commit-hour heatmap + day-of-week chart. This is data that
+          # NOTHING else on the profile shows.
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+
+          # ── Languages (private repos included via GH_PAT) ───────────────
+          # Deep analysis: actually clones repos and counts lines, so the
+          # breakdown is accurate — unlike the stats-card approximation.
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_sections: most-used
-          plugin_languages_limit: 10
+          plugin_languages_limit: 12
           plugin_languages_threshold: 0%
 
-          # ── Achievements / badges ────────────────────────────────────────
+          # ── Notable Contributions ────────────────────────────────────────
+          # Highlights contributions to well-known / high-star repos.
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
+
+          # ── Achievements ─────────────────────────────────────────────────
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
+
+          # ── Follow-up (Issues & PRs) ─────────────────────────────────────
+          # Shows open/closed ratio for issues and PRs — unique "response
+          # rate" metric no other widget covers.
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_indepth: yes
+
+          # ── Lines of Code Changed ────────────────────────────────────────
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+          plugin_lines_repositories_limit: 6
+
+          # ── Traffic (requires GH_PAT with repo scope) ───────────────────
+          plugin_traffic: yes
 
           # ── Output ───────────────────────────────────────────────────────
           output_action: commit
