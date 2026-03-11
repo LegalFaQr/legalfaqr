@@ -1,0 +1,64 @@
+name: Generate GitHub Metrics
+
+# ─────────────────────────────────────────────────────────────────────────────
+# SETUP REQUIRED FOR PRIVATE CONTRIBUTION DATA:
+#
+#   1. Go to https://github.com/settings/tokens/new
+#   2. Create a Classic token with scopes: repo, read:user, read:org
+#   3. Save it as a repository secret named:  GH_PAT
+#      (Settings → Secrets and variables → Actions → New repository secret)
+#
+#   Without GH_PAT, the workflow still runs but private repo contributions
+#   and language stats will not be included.
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # GH_PAT grants access to private repos; falls back to GITHUB_TOKEN
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          user: legalfaqr
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: yes
+
+          # ── Isometric commit calendar (full year, private included) ──────
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ── Language breakdown (includes private repos with GH_PAT) ──────
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0%
+
+          # ── Achievements / badges ────────────────────────────────────────
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+          # ── Output ───────────────────────────────────────────────────────
+          output_action: commit
+          filename: github-metrics.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: update github metrics [skip ci]"

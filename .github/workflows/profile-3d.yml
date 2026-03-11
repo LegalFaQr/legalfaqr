@@ -12,13 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use GH_PAT (Personal Access Token with `repo` + `read:user` scopes)
+          # stored as a repository secret to include PRIVATE repo contributions.
+          # Fall back to the default GITHUB_TOKEN if GH_PAT is not set.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           USERNAME: legalfaqr
+          # Include contributions from ALL repos (public + private)
+          INCLUDE_ALL_CONTRIBUTIONS: true
+          # Use the rainbow night view for a premium look
+          SETTING_JSON: |-
+            {
+              "githubUserName": "legalfaqr",
+              "type": "nightRainbow"
+            }
 
       - name: Commit and Push
         run: |
