@@ -2,17 +2,24 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:    # Allows manual triggering
+
+permissions:
+  contents: write       # CRITICAL: Allows the bot to save changes to the README
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-readme:
     name: Update activity
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2
+      - name: Update GitHub Activity
+        uses: Readme-Workflows/recent-activity@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
