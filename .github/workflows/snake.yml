@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: legalfaqr
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00F7FF&color_dots=#0D1117,#0a4a6e,#007CF0,#00C4FF,#00F7FF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00F7FF&color_dots=#0D1117,#0a4a6e,#007CF0,#00C4FF,#8B5CF6
+            dist/github-contribution-grid-snake.svg?color_snake=00F7FF&color_dots=#161b22,#0369a1,#0ea5e9,#38bdf8,#00F7FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00F7FF&color_dots=#161b22,#0369a1,#0ea5e9,#38bdf8,#8B5CF6
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
