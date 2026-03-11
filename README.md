@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER: Venom blob -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=000000&strokeWidth=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=000000&strokeWidth=1" width="100%" />
 
 <!-- Animated floating bubbles rising from the header -->
 <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" />
