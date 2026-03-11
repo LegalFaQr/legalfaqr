@@ -47,7 +47,7 @@
 </table>
 
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?theme=tokyonight&color=00F7FF" width="280" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="280" alt="Spotify Now Playing" />
 </div>
 
 ---
