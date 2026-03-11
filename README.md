@@ -85,12 +85,7 @@ Many of my projects originate from hackathon prototypes.
 
 # 🛠 Tech Stack
 
-### Languages
-Python
-JavaScript
-TypeScript
-Rust
-
+![Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,aws,docker,mongodb,rust)
 
 ### Frameworks
 React
