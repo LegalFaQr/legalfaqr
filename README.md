@@ -1,139 +1,159 @@
-# 👋 Hi, I'm Arindam Bhattacharya
+<!-- Animated Header -->
 
-🚀 Developer • AI Builder • Hackathon Enthusiast  
-🧠 Building AI systems, developer tools, and security platforms.
+<h1 align="center">Hi 👋, I'm Arindam Bhattacharya</h1>
 
----
+<p align="center">
+🚀 Developer • AI Builder • Hackathon Enthusiast
+</p>
 
-# 🚀 About Me
-
-I enjoy building **complex developer tools, AI platforms, and automation systems** that solve real problems.
-
-💡 My interests include:
-
-- AI-powered developer tools  
-- Security automation for open-source  
-- Full-stack systems architecture  
-- Building large production-ready projects  
-
-⚡ I enjoy turning ambitious ideas into **real working software**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Building+Developer+Tools;Open+Source+Builder;Security+Automation+Engineer;Hackathon+Enthusiast" />
+</p>
 
 ---
 
-# 🧩 Featured Projects
+# 🧠 About Me
+
+I build **AI systems, developer tools, and security platforms** that solve real-world problems.
+
+⚡ Things I enjoy working on
+
+- AI-powered developer tooling  
+- Security automation for open source  
+- Large full-stack systems  
+- Building production-grade developer platforms  
+
+💡 I enjoy turning **ambitious ideas into working software**.
+
+---
+
+# 🚀 Featured Projects
 
 ## 🖥 AASK IDE
 
-A **visual Figma-style IDE for React/Next.js development** that allows developers to build interfaces visually while generating production-ready code.
+**A visual Figma-style IDE for building React / Next.js apps**
 
-### Highlights
+AASK allows developers to **design interfaces visually while generating real production-ready code**.
 
-- Drag-and-drop UI builder
-- Deterministic **canvas → React code generation**
-- Monaco editor integration (VS Code engine)
-- Visual design + code editing in real time
-- Extension marketplace
-- Integrated terminal and Git tools
+### ✨ Highlights
 
-### Tech Stack
-Next.js
-React
-TypeScript
-Rust (Tauri)
-FastAPI
-Docker
-Monaco Editor
+• Drag-and-drop UI builder  
+• Deterministic **canvas → React code generation**  
+• Monaco editor (VS Code engine)  
+• Visual + code editing in real time  
+• Extension marketplace  
+• Integrated terminal & Git tools  
+
+### ⚙ Tech Stack
+
+Next.js • React • TypeScript • Rust (Tauri)
+FastAPI • Docker • Monaco Editor
+
 
 ---
 
 ## 🛡 GUARD.AI
 
-An **AI-powered GitHub security review system** that automatically analyzes pull requests and issues.
+**AI-powered GitHub security review system**
 
-### Capabilities
+Automatically analyzes pull requests and issues to detect **spam, AI-generated content, and malicious contributions**.
 
-- Detects **low-effort PRs**
-- Detects **AI-generated contributions**
-- Detects **malicious code**
-- Auto labels / comments / closes suspicious PRs
-- Real-time GitHub webhook analysis
+### 🔍 Capabilities
 
-### Tech Stack
-Next.js
-React
-FastAPI
-MongoDB
-AWS Bedrock
-Docker
-AWS ECS
+• Detects low-effort PRs  
+• Detects AI-generated contributions  
+• Detects malicious code patterns  
+• Automatically labels / comments / closes PRs  
+• Real-time GitHub webhook analysis  
+
+### ⚙ Tech Stack
+
+Next.js • React • FastAPI
+MongoDB • AWS Bedrock
+Docker • AWS ECS
+
 
 ---
 
 # 🏆 Hackathons
 
-I regularly participate in hackathons and build production-ready prototypes.
+I regularly participate in hackathons and build **production-ready prototypes quickly**.
 
-🏁 Participated In
+🏁 Hackathons
 
-- **GGI Hackathon**
-- **CGC Hackathon**
-- **Thapar University Hackathon**
+• GGI Hackathon  
+• CGC Hackathon  
+• Thapar University Hackathon  
 
-Many of my projects originate from hackathon prototypes.
+Many of my projects start as **hackathon experiments** and evolve into full systems.
 
 ---
 
 # 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,aws,docker,mongodb,rust)
+<p align="center">
 
-### Frameworks
-React
-Next.js
-FastAPI
-Node.js
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,rust,docker,aws,mongodb,git,linux&perline=7" />
 
-
-### Infrastructure
-AWS
-Docker
-MongoDB
-GitHub Actions
-Linux
-
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+
+</p>
 
 ---
 
 # 🔥 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=tokyo-night)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=legalfaqr&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🧠 Current Focus
+# ⚡ Current Focus
 
-Currently working on:
+Currently working on
 
-- AI-powered developer tools
-- Open-source security automation
-- Full-stack AI applications
-- Advanced system architecture
-
----
-
-# 📫 Connect With Me
-
-GitHub  
-https://github.com/legalfaqr
+• AI-powered developer platforms  
+• Open-source security automation  
+• Full-stack AI applications  
+• Advanced system architecture  
 
 ---
 
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/legalfaqr">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<p align="center">
 ⭐ If you like my projects, consider starring them!
+</p>
