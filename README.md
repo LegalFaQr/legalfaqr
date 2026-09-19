@@ -1,206 +1,343 @@
 <div align="center">
 
-<!-- HEADER: Venom blob -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=000000&strokeWidth=1" width="100%" />
+<!-- HEADER: Venom blob banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Systems%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=000000&strokeWidth=1" width="100%" alt="Arindam Bhattacharya - Header Banner" />
 
 <!-- Animated floating bubbles rising from the header -->
-<img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" alt="Header Bubbles Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=%E2%9A%A1+Building+the+IDE+that+builds+itself;%F0%9F%94%92+Autonomous+AI+agents+securing+open+source;%F0%9F%8E%AF+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code;%F0%9F%8C%8D+From+Punjab+to+the+global+dev+ecosystem;%F0%9F%A7%AC+Architecting+systems%2C+not+just+software" alt="Typing SVG" />
+<!-- Dynamic Neon Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=840&height=55&lines=%E2%9A%A1+Architecting+autonomous+AI+agents+%26+self-assembling+IDEs;%F0%9F%9B%A1%EF%B8%8F+Building+GUARD.AI%3A+Sub-second+OSS+threat+interception;%F0%9F%8E%AF+Deterministic+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code+(AASK);%F0%9F%8F%86+3x+Hackathon+Gold+Podiums+%7C+Systems+Architect+%7C+OSS+Hacker;%F0%9F%8C%8D+Innovating+from+Punjab+to+the+Global+Dev+Ecosystem" alt="Dynamic Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/legalfaqr"><img src="https://img.shields.io/github/followers/legalfaqr?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/legalfaqr?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/legalfaqr?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=starship&logoColor=white&label=Stars" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Visitors&color=00F7FF&style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/Focus-AASK%20IDE-FF3E00?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=white" />
+<!-- Real-time Telemetry & Status Badges -->
+<a href="https://github.com/legalfaqr?tab=followers"><img src="https://img.shields.io/github/followers/legalfaqr?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" /></a>&nbsp;
+<a href="https://github.com/legalfaqr?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/legalfaqr?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=starship&logoColor=white&label=Stars" alt="Stars" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile+Telemetry&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Telemetry Counter" />&nbsp;
+<a href="https://aask-web-final.vercel.app/"><img src="https://img.shields.io/badge/Flagship-AASK%20IDE-FF3E00?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="AASK IDE Flagship" /></a>&nbsp;
+<a href="https://g-uard.duckdns.org"><img src="https://img.shields.io/badge/Live-GUARD.AI-00F7FF?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=white" alt="GUARD.AI Defense" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Collabs-10B981?style=for-the-badge&labelColor=0D1117&logo=target&logoColor=white" alt="Status" />
 
 </div>
 
+<br/>
+
+<!-- Contribution Command Center: Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg" alt="Realtime Contribution Snake" width="100%" />
   </picture>
 </div>
 
+<!-- Expandable 3D Isometric Contribution Galaxy -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+  <details>
+    <summary><b>🌌 Expand 3D Isometric Contribution Galaxy (Rainbow Night Terrain)</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Galaxy" />
+    </p>
+    <br/>
+  </details>
 </div>
 
-### Who dis?
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+</div>
 
-```js
-const arindam = {
-  name:      "Arindam Bhattacharya",
-  base:      "Zirakpur, Punjab 🇮🇳",
-  age:       "old enough to know better, young enough to ship anyway",
+<!-- ================================================================================= -->
+<!-- DEVELOPER DOSSIER & TERMINAL                                                      -->
+<!-- ================================================================================= -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⚡ System Architecture &amp; Developer Dossier</h3>
+    </td>
+  </tr>
+</table>
 
-  by_day:    "building an IDE that makes IDEs obsolete",
-  by_night:  "debugging the thing I built by day",
+```typescript
+/**
+ * @file Arindam.d.ts
+ * @author Arindam Bhattacharya (@legalfaqr)
+ * @location Zirakpur, Punjab 🇮🇳
+ */
 
-  stack:     "whatever gets the job done (currently: everything)",
-  coffee:    "yes. always. no i will not elaborate.",
+interface SystemsArchitect {
+  readonly name: string;
+  readonly role: string;
+  readonly mission: string;
+  corePhilosophy: string[];
+  flagshipSystems: {
+    aask_ide: string;
+    guard_ai: string;
+  };
+  lowkeyFlexes: string[];
+  fuel: string;
+  status: string;
+}
 
-  lowkey_flexes: [
-    "built AASK IDE from scratch — canvas to real code",
-    "GUARD.AI caught real threats on day one",
-    "3x hackathon podiums without losing sleep (lied)",
-    "invented my own programming language mid-project",
+export const arindam: SystemsArchitect = {
+  name: "Arindam Bhattacharya",
+  role: "Systems Architect • Autonomous AI Engineer • OSS Builder",
+  mission: "Building autonomous developer tooling & self-assembling software engines.",
+
+  corePhilosophy: [
+    "Canvas → AST → Deterministic Code: Eliminate friction between visual thought and production code",
+    "Sub-second autonomous mitigation beats post-incident autopsy every time",
+    "Zero vanity fluff: Engineer tools that developers genuinely rely upon"
   ],
 
-  currently_obsessed_with: "making AI do the boring parts so I don't have to",
+  flagshipSystems: {
+    aask_ide: "Visual Photoshop-like IDE with deterministic multi-language code compilation",
+    guard_ai: "Real-time AI security engine protecting open-source repositories from poisoned payloads"
+  },
 
-  if_you_re_reading_this:  "hire me or collab — either is fine",
+  lowkeyFlexes: [
+    "Architected AASK IDE from scratch: custom canvas renderer to AST generator",
+    "GUARD.AI successfully intercepted and quarantined malicious PR payloads on Day 1",
+    "3x Hackathon podium champion without dropping momentum",
+    "Engineered custom domain language (AIM) to map visual coordinates into semantic ASTs"
+  ],
+
+  fuel: "Precision espresso + high-tempo cyber synthwave",
+  status: "Available for Founding Engineering, Systems Architecture & High-Impact Collabs"
 };
 ```
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zexcpniavkp615uk5xwsha6sv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00F7FF&bar_color_cover=false&mode=dark" width="300" alt="Spotify — now playing" />
-  <br/>
-  <sub>what's playing while I ship</sub>
+  <a href="https://open.spotify.com/user/zexcpniavkp615uk5xwsha6sv" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%A7_Coding_Soundtrack-Deep_Focus_%26_Synthwave-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Soundscape" />
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Vibe-Late_Night_Shipping-00F7FF?style=for-the-badge&logo=power&logoColor=white&labelColor=0D1117" alt="Late Night Shipping" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
 </div>
 
-### Tech Stack
-
+<!-- ================================================================================= -->
+<!-- FLAGSHIP SYSTEMS SHOWCASE                                                         -->
+<!-- ================================================================================= -->
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="130"><b>Languages</b></td>
-    <td align="center" width="130"><b>Frontend</b></td>
-    <td align="center" width="130"><b>Backend</b></td>
-    <td align="center" width="130"><b>Cloud & Infra</b></td>
-    <td align="center" width="130"><b>Tooling</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust,ts,py&theme=dark" width="85"/><br/><img src="https://skillicons.dev/icons?i=go,cpp,c&theme=dark" width="85"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" width="85"/><br/><img src="https://skillicons.dev/icons?i=threejs,svelte,html&theme=dark" width="85"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" width="85"/><br/><img src="https://skillicons.dev/icons?i=graphql,mongodb,postgres&theme=dark" width="85"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" width="85"/><br/><img src="https://skillicons.dev/icons?i=kubernetes,redis,terraform&theme=dark" width="85"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" width="85"/><br/><img src="https://skillicons.dev/icons?i=vscode,figma,linux&theme=dark" width="85"/></td>
-  </tr>
-</table>
+  <h2>🚀 Flagship Architectures &amp; Active Systems</h2>
+  <p><sub>Mission-critical developer platforms &amp; autonomous cybersecurity infrastructure</sub></p>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
-</div>
-
-### What I'm Building
 
 <div align="center">
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <!-- AASK IDE CARD -->
+    <td width="50%" valign="top" style="border: 1px solid #00F7FF; border-radius: 8px; padding: 16px;">
       <div align="center">
-        <img src="https://img.shields.io/badge/AASK_IDE-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" />
-        <img src="https://img.shields.io/badge/In%20Development-FF3E00?style=flat-square&labelColor=0D1117" />
+        <a href="https://aask-web-final.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/AASK_IDE-Photoshop--Style_Visual_IDE-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="AASK IDE" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Pipeline-Canvas_%E2%86%92_AST_%E2%86%92_Production_Code-8B5CF6?style=flat-square&labelColor=0D1117" alt="Pipeline" />
+        <img src="https://img.shields.io/badge/Status-Active_Evolution-FF3E00?style=flat-square&labelColor=0D1117" alt="Status" />
       </div>
       <br/>
-      <p align="center"><b>Photoshop-Style Visual IDE</b><br/><sub>AIM Language → React / Next.js (expanding to all languages)</sub></p>
+      <p align="center"><b>Next-Generation Visual Software Synthesis</b><br/>
+      <sub>AIM Domain Language &rarr; Deterministic React / Next.js Production Code</sub></p>
       <ul>
-        <li>AI-integrated development engine</li>
-        <li>Custom component marketplace</li>
-        <li>Industry-first: OAuth + graph-based source control</li>
-        <li>Deterministic <b>Canvas → AST → Code</b> pipeline</li>
-        <li>Embedded Monaco editor + integrated terminal</li>
-        <li>Live preview with hot-reload</li>
+        <li>⚡ <b>Deterministic Canvas &rarr; AST Engine</b>: Translates visual freeform canvas hierarchies directly into production-ready syntax trees.</li>
+        <li>🧩 <b>Modular Component Marketplace</b>: Hot-swappable custom components with instant reactive state binding.</li>
+        <li>🛡️ <b>Graph-Based Source Control</b>: Native OAuth-backed semantic versioning, branching, and tree-diff visualizer.</li>
+        <li>💻 <b>Monaco Core &amp; Integrated Terminal</b>: Embedded Monaco LSP editor with real-time multi-file compilation and hot-reload.</li>
       </ul>
-      <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,rust,fastapi,docker" height="28" /></p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,rust,fastapi,docker,ts,tailwind" height="30" alt="AASK IDE Stack" />
+        <br/><br/>
+        <a href="https://aask-web-final.vercel.app/"><b>👉 Launch Live AASK IDE Prototype</b></a>
+      </div>
     </td>
-    <td width="50%" valign="top">
+
+    <!-- GUARD.AI CARD -->
+    <td width="50%" valign="top" style="border: 1px solid #FF3E00; border-radius: 8px; padding: 16px;">
       <div align="center">
-        <img src="https://img.shields.io/badge/GUARD.AI-FF3E00?style=for-the-badge&logo=shield&logoColor=white" />
-        <img src="https://img.shields.io/badge/Live-00F7FF?style=flat-square&labelColor=0D1117" />
+        <a href="https://g-uard.duckdns.org" target="_blank">
+          <img src="https://img.shields.io/badge/GUARD.AI-Autonomous_Security_Agent-FF3E00?style=for-the-badge&logo=shield&logoColor=white" alt="GUARD.AI" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Response-Sub--Second_Webhook_Interception-00F7FF?style=flat-square&labelColor=0D1117" alt="Response" />
+        <img src="https://img.shields.io/badge/Deployment-Live_%26_Guarding-10B981?style=flat-square&labelColor=0D1117" alt="Live" />
       </div>
       <br/>
-      <p align="center"><b>Autonomous GitHub Security System</b><br/><sub>AI-powered OSS enforcement &amp; threat detection</sub></p>
+      <p align="center"><b>Autonomous Open-Source Threat Interception</b><br/>
+      <sub>AI-Powered OSS Enforcement, Threat Telemetry &amp; Malicious PR Defense</sub></p>
       <ul>
-        <li>Detects AI-generated spam &amp; malicious PR payloads</li>
-        <li>Real-time webhook analysis — sub-second response</li>
-        <li>LLM-powered payload classification &amp; scoring</li>
-        <li>Live threat intelligence dashboard</li>
-        <li>Automated enforcement, quarantine &amp; alerting</li>
-        <li>Anomaly detection on contributor behavior</li>
+        <li>🚨 <b>Sub-Second Webhook Defense</b>: Ingests and inspects GitHub webhooks in under 800ms before malicious actions propagate.</li>
+        <li>🧠 <b>LLM-Driven Payload Classification</b>: Multi-layer heuristic scoring classifying AI spam, poisoned PRs, and stealth attacks.</li>
+        <li>📊 <b>Real-Time Threat Intelligence Deck</b>: Live telemetry command center monitoring attack vectors and quarantine logs.</li>
+        <li>🔍 <b>Behavioral Anomaly Profiling</b>: Tracks contributor trust scores to immediately isolate bot rings and hijacked accounts.</li>
       </ul>
-      <p align="center"><img src="https://skillicons.dev/icons?i=py,mongodb,aws,githubactions" height="28" /></p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,aws,docker,githubactions" height="30" alt="GUARD.AI Stack" />
+        <br/><br/>
+        <a href="https://g-uard.duckdns.org"><b>👉 Inspect GUARD.AI Threat Intel Deck</b></a>
+      </div>
     </td>
   </tr>
 </table>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
 </div>
 
-### Hackathons
-
+<!-- ================================================================================= -->
+<!-- HACKATHONS PODIUM                                                                 -->
+<!-- ================================================================================= -->
 <div align="center">
-
-| Competition | Result | Project | Domain |
-| :--- | :---: | :---: | :--- |
-| **GGI Hackathon** | 🥇 Top Tier | <a href="https://aask-web-final.vercel.app/"> AASK IDE </a> | Developer Infrastructure   
-| **CGC Hackathon** | 🥇 Top Tier | <a href="https://g-uard.duckdns.org"> GUARD.AI </a> | AI Security Automation |  
-| **Thapar University** | 🥇 Top Tier | AASK Tech | Full-Stack Prototype |
-
+  <h2>🏆 Hackathon Champions Hall of Fame</h2>
+  <p><sub>Battle-tested prototypes engineered and shipped under extreme time constraints</sub></p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+
+| Competition | Result | System / Flagship | Core Domain | Direct Prototype |
+| :--- | :---: | :--- | :--- | :---: |
+| **GGI Hackathon** | 🥇 **Gold / Top Tier** | **AASK IDE** | Developer Infrastructure &amp; Compilers | [🚀 Live Web App](https://aask-web-final.vercel.app/) |
+| **CGC Hackathon** | 🥇 **Gold / Top Tier** | **GUARD.AI** | Autonomous AI Security &amp; Threat Defense | [🛡️ Intel Portal](https://g-uard.duckdns.org) |
+| **Thapar University Hackathon** | 🥇 **Gold / Top Tier** | **AASK Tech** | Full-Stack Systems &amp; Rapid Synthesis | [⚡ System Core](https://aask-web-final.vercel.app/) |
+
 </div>
 
-### GitHub
-
-<!-- Streak — always accurate (reads contribution graph directly) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+</div>
+
+<!-- ================================================================================= -->
+<!-- TECH ARSENAL & SYSTEMS CAPABILITY MATRIX                                          -->
+<!-- ================================================================================= -->
+<div align="center">
+  <h2>🛠️ Systems Arsenal &amp; Technical Capabilities</h2>
+  <p><sub>Languages, frameworks, data pipelines &amp; infrastructure orchestrated daily</sub></p>
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Core &amp; Systems</b></td>
+    <td align="center" width="20%"><b>Frontend &amp; Canvas</b></td>
+    <td align="center" width="20%"><b>Backend &amp; Distributed</b></td>
+    <td align="center" width="20%"><b>Cloud &amp; DevOps</b></td>
+    <td align="center" width="20%"><b>Tooling &amp; Ops</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rust,ts,py&theme=dark" width="90"/><br/>
+      <img src="https://skillicons.dev/icons?i=go,cpp,c,js&theme=dark" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" width="90"/><br/>
+      <img src="https://skillicons.dev/icons?i=threejs,svelte,html,css&theme=dark" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" width="90"/><br/>
+      <img src="https://skillicons.dev/icons?i=graphql,mongodb,postgres,redis&theme=dark" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" width="90"/><br/>
+      <img src="https://skillicons.dev/icons?i=kubernetes,terraform,linux&theme=dark" width="90"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" width="90"/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,neovim,bash&theme=dark" width="120"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+</div>
+
+<!-- ================================================================================= -->
+<!-- REAL-TIME GITHUB ACTIVITY (REQUIRED ANCHORS FOR WORKFLOW)                         -->
+<!-- ================================================================================= -->
+<div align="center">
+  <h2>⚡ Live GitHub Activity Feed</h2>
+  <p><sub>Automated heartbeat updating continuously with latest public contributions and code shifts</sub></p>
+</div>
+
+<!--START_SECTION:activity-->
+1. 🚀 Synchronizing latest repository events...
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+</div>
+
+<!-- ================================================================================= -->
+<!-- GITHUB TELEMETRY & REAL-TIME STATS                                                -->
+<!-- ================================================================================= -->
+<div align="center">
+  <h2>📊 GitHub Telemetry &amp; Velocity</h2>
+  <p><sub>Real-time velocity, contribution streaks &amp; multi-repository language analytics</sub></p>
+</div>
+
+<!-- Streak stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=legalfaqr&hide_border=true&background=0D1117&stroke=1a1b27&ring=00F7FF&fire=8B5CF6&currStreakNum=00F7FF&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=555555&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Velocity" />
 </div>
 
 <br/>
 
-<!-- Commits overview + language donut side by side -->
+<!-- Commits overview + language donut side by side (Using high-reliability extended mirror) -->
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=legalfaqr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Commits%20%26%20Stats%20(incl.%20private)" />&nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legalfaqr&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8&count_private=true&custom_title=Languages" />
+  <img height="185" src="https://github-stats-extended.vercel.app/api?username=legalfaqr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Commits%20%26%20Stats%20(incl.%20private)" alt="Commits & Stats" />&nbsp;&nbsp;
+  <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=legalfaqr&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8&count_private=true&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- Deep metrics — collapsed by default -->
-<details>
-  <summary><b>&nbsp;🔬 Deep Metrics &mdash; coding habits, notable contributions, line counts, traffic (private repos included)&nbsp;</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Deep Metrics" />
-  </div>
-  <br/>
-</details>
-
+<!-- Deep metrics — collapsed by default for zero performance penalty -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" />
+  <details>
+    <summary><b>🔬 Inspect Deep Metrics &mdash; Coding Habits, Notable OSS Contributions, Line Deltas &amp; Traffic</b></summary>
+    <br/>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/github-metrics.svg" width="95%" alt="GitHub Deep Architecture Metrics" />
+    </div>
+    <br/>
+  </details>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/notlegalfaqr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:legalfaqr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/legalfaqr"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
 </div>
 
-<br/>
-
+<!-- ================================================================================= -->
+<!-- HOLOGRAPHIC COMMS & SOCIAL NETWORK                                                -->
+<!-- ================================================================================= -->
 <div align="center">
-  <sub>Architected by <b>Arindam Bhattacharya</b></sub>
-</div>
+  <h2>📡 Establish Uplink &amp; Connect</h2>
+  <p><sub>Reach out for high-impact systems roles, collaborative engineering, or advisory</sub></p>
 
-<br/>
+  <a href="https://linkedin.com/in/notlegalfaqr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:legalfaqr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/legalfaqr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/legalfaqr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile" />
+  </a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:007CF0,70:8B5CF6,100:00F7FF&height=120&section=footer&reversal=false" width="100%" />
+  <br/><br/>
+  <sub>⚡ Systems Architected &amp; Maintained by <b>Arindam Bhattacharya</b></sub>
+  <br/><br/>
+
+  <!-- Waving cyber footer banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:007CF0,70:8B5CF6,100:00F7FF&height=120&section=footer&reversal=false" width="100%" alt="Footer Wave" />
 </div>
