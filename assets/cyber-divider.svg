@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48">
+  <defs>
+    <!-- Laser Beam Gradient -->
+    <linearGradient id="divLaser" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00F7FF" stop-opacity="0.3" />
+      <stop offset="45%" stop-color="#00F7FF" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="55%" stop-color="#8B5CF6" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#8B5CF6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Node Glow Filter -->
+    <filter id="divGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseNode {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.3); opacity: 1; }
+    }
+  </style>
+
+  <!-- Central Laser Line -->
+  <line x1="120" y1="24" x2="1080" y2="24" stroke="url(#divLaser)" stroke-width="1.8" />
+  <line x1="300" y1="24" x2="900" y2="24" stroke="#FFFFFF" stroke-width="1" opacity="0.6" />
+
+  <!-- Center Holographic Diamond Core -->
+  <g transform="translate(600, 24)" filter="url(#divGlow)">
+    <polygon points="0,-10 10,0 0,10 -10,0" fill="#0D1524" stroke="#00F7FF" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" values="0;180;360" dur="12s" repeatCount="indefinite" />
+    </polygon>
+    <circle cx="0" cy="0" r="3.5" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Flanking Tech Node Dots -->
+  <g filter="url(#divGlow)">
+    <circle cx="480" cy="24" r="2.5" fill="#00F7FF" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="720" cy="24" r="2.5" fill="#8B5CF6" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <polygon points="400,21 406,24 400,27" fill="#00F7FF" opacity="0.4" />
+    <polygon points="800,21 794,24 800,27" fill="#8B5CF6" opacity="0.4" />
+  </g>
+</svg>

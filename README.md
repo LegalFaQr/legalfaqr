@@ -1,65 +1,61 @@
 <div align="center">
 
-<!-- HEADER: Venom blob banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:007CF0,100:8B5CF6&height=300&section=header&text=Arindam%20Bhattacharya&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Systems%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20OSS%20Builder&descAlignY=62&descSize=18&stroke=000000&strokeWidth=1" width="100%" alt="Arindam Bhattacharya - Header Banner" />
-
-<!-- Animated floating bubbles rising from the header -->
-<img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/header-bubbles.svg" width="100%" alt="Header Bubbles Animation" />
-
-<br/>
-
-<!-- Dynamic Neon Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=840&height=55&lines=%E2%9A%A1+Architecting+autonomous+AI+agents+%26+self-assembling+IDEs;%F0%9F%9B%A1%EF%B8%8F+Building+GUARD.AI%3A+Sub-second+OSS+threat+interception;%F0%9F%8E%AF+Deterministic+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code+(AASK);%F0%9F%8F%86+3x+Hackathon+Gold+Podiums+%7C+Systems+Architect+%7C+OSS+Hacker;%F0%9F%8C%8D+Innovating+from+Punjab+to+the+Global+Dev+Ecosystem" alt="Dynamic Typing SVG" />
+<!-- ================================================================================= -->
+<!-- HERO: Custom Animated Cyberpunk Vector Banner                                      -->
+<!-- ================================================================================= -->
+<img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/hero-banner.svg" width="100%" alt="Arindam Bhattacharya — Systems Architect & AI Engineer" />
 
 <br/>
 
-<!-- Real-time Telemetry & Status Badges -->
+<!-- Dynamic Neon Typing SVG — Optimized Width for Zero Clipping -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=50&lines=%E2%9A%A1+Architecting+autonomous+AI+agents+%26+self-assembling+IDEs;%F0%9F%9B%A1%EF%B8%8F+Building+GUARD.AI%3A+Sub-second+OSS+threat+defense;%F0%9F%8E%AF+Deterministic+Canvas+%E2%86%92+AST+%E2%86%92+Production+Code+(AASK);%F0%9F%8F%86+3x+Hackathon+Gold+Podiums+%7C+Systems+Architect+%7C+OSS+Hacker;%F0%9F%8C%8D+Innovating+from+Punjab+to+the+Global+Dev+Ecosystem" alt="Live Typing Telemetry" />
+
+<br/>
+
+<!-- Telemetry & Status Badges -->
 <a href="https://github.com/legalfaqr?tab=followers"><img src="https://img.shields.io/github/followers/legalfaqr?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" /></a>&nbsp;
 <a href="https://github.com/legalfaqr?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/legalfaqr?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=starship&logoColor=white&label=Stars" alt="Stars" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile+Telemetry&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Telemetry Counter" />&nbsp;
-<a href="https://aask-web-final.vercel.app/"><img src="https://img.shields.io/badge/Flagship-AASK%20IDE-FF3E00?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="AASK IDE Flagship" /></a>&nbsp;
-<a href="https://g-uard.duckdns.org"><img src="https://img.shields.io/badge/Live-GUARD.AI-00F7FF?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=white" alt="GUARD.AI Defense" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=legalfaqr&label=Profile+Telemetry&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Profile Telemetry" />&nbsp;
+<a href="https://aask-web-final.vercel.app/"><img src="https://img.shields.io/badge/Flagship-AASK%20IDE-FF3E00?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="AASK IDE" /></a>&nbsp;
+<a href="https://g-uard.duckdns.org"><img src="https://img.shields.io/badge/Live-GUARD.AI-00F7FF?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=white" alt="GUARD.AI" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Collabs-10B981?style=for-the-badge&labelColor=0D1117&logo=target&logoColor=white" alt="Status" />
 
 </div>
 
 <br/>
 
-<!-- Contribution Command Center: Snake Animation -->
+<!-- ================================================================================= -->
+<!-- CONTRIBUTION COMMAND CENTER                                                       -->
+<!-- ================================================================================= -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg" alt="Realtime Contribution Snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" width="100%" />
   </picture>
 </div>
 
-<!-- Expandable 3D Isometric Contribution Galaxy -->
+<!-- 3D Isometric Contribution Galaxy (Visible by default) -->
 <div align="center">
-  <details>
-    <summary><b>🌌 Expand 3D Isometric Contribution Galaxy (Rainbow Night Terrain)</b></summary>
+  <details open>
+    <summary><b>🌌 3D Isometric Contribution Galaxy (Rainbow Night Terrain) &mdash; Click to Toggle</b></summary>
     <br/>
     <p align="center">
       <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Galaxy" />
     </p>
-    <br/>
   </details>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
 <!-- DEVELOPER DOSSIER & TERMINAL                                                      -->
 <!-- ================================================================================= -->
-<table width="100%">
-  <tr>
-    <td>
-      <h3>⚡ System Architecture &amp; Developer Dossier</h3>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>⚡ System Architecture &amp; Developer Dossier</h2>
+</div>
 
 ```typescript
 /**
@@ -118,77 +114,23 @@ export const arindam: SystemsArchitect = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
-<!-- FLAGSHIP SYSTEMS SHOWCASE                                                         -->
+<!-- FLAGSHIP SYSTEMS ARCHITECTURE SHOWCASE                                            -->
 <!-- ================================================================================= -->
 <div align="center">
   <h2>🚀 Flagship Architectures &amp; Active Systems</h2>
   <p><sub>Mission-critical developer platforms &amp; autonomous cybersecurity infrastructure</sub></p>
 </div>
 
-<div align="center">
-<table width="100%">
-  <tr>
-    <!-- AASK IDE CARD -->
-    <td width="50%" valign="top" style="border: 1px solid #00F7FF; border-radius: 8px; padding: 16px;">
-      <div align="center">
-        <a href="https://aask-web-final.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/AASK_IDE-Photoshop--Style_Visual_IDE-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="AASK IDE" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Pipeline-Canvas_%E2%86%92_AST_%E2%86%92_Production_Code-8B5CF6?style=flat-square&labelColor=0D1117" alt="Pipeline" />
-        <img src="https://img.shields.io/badge/Status-Active_Evolution-FF3E00?style=flat-square&labelColor=0D1117" alt="Status" />
-      </div>
-      <br/>
-      <p align="center"><b>Next-Generation Visual Software Synthesis</b><br/>
-      <sub>AIM Domain Language &rarr; Deterministic React / Next.js Production Code</sub></p>
-      <ul>
-        <li>⚡ <b>Deterministic Canvas &rarr; AST Engine</b>: Translates visual freeform canvas hierarchies directly into production-ready syntax trees.</li>
-        <li>🧩 <b>Modular Component Marketplace</b>: Hot-swappable custom components with instant reactive state binding.</li>
-        <li>🛡️ <b>Graph-Based Source Control</b>: Native OAuth-backed semantic versioning, branching, and tree-diff visualizer.</li>
-        <li>💻 <b>Monaco Core &amp; Integrated Terminal</b>: Embedded Monaco LSP editor with real-time multi-file compilation and hot-reload.</li>
-      </ul>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,rust,fastapi,docker,ts,tailwind" height="30" alt="AASK IDE Stack" />
-        <br/><br/>
-        <a href="https://aask-web-final.vercel.app/"><b>👉 Launch Live AASK IDE Prototype</b></a>
-      </div>
-    </td>
-
-    <!-- GUARD.AI CARD -->
-    <td width="50%" valign="top" style="border: 1px solid #FF3E00; border-radius: 8px; padding: 16px;">
-      <div align="center">
-        <a href="https://g-uard.duckdns.org" target="_blank">
-          <img src="https://img.shields.io/badge/GUARD.AI-Autonomous_Security_Agent-FF3E00?style=for-the-badge&logo=shield&logoColor=white" alt="GUARD.AI" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Response-Sub--Second_Webhook_Interception-00F7FF?style=flat-square&labelColor=0D1117" alt="Response" />
-        <img src="https://img.shields.io/badge/Deployment-Live_%26_Guarding-10B981?style=flat-square&labelColor=0D1117" alt="Live" />
-      </div>
-      <br/>
-      <p align="center"><b>Autonomous Open-Source Threat Interception</b><br/>
-      <sub>AI-Powered OSS Enforcement, Threat Telemetry &amp; Malicious PR Defense</sub></p>
-      <ul>
-        <li>🚨 <b>Sub-Second Webhook Defense</b>: Ingests and inspects GitHub webhooks in under 800ms before malicious actions propagate.</li>
-        <li>🧠 <b>LLM-Driven Payload Classification</b>: Multi-layer heuristic scoring classifying AI spam, poisoned PRs, and stealth attacks.</li>
-        <li>📊 <b>Real-Time Threat Intelligence Deck</b>: Live telemetry command center monitoring attack vectors and quarantine logs.</li>
-        <li>🔍 <b>Behavioral Anomaly Profiling</b>: Tracks contributor trust scores to immediately isolate bot rings and hijacked accounts.</li>
-      </ul>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,aws,docker,githubactions" height="30" alt="GUARD.AI Stack" />
-        <br/><br/>
-        <a href="https://g-uard.duckdns.org"><b>👉 Inspect GUARD.AI Threat Intel Deck</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
+| <div align="center"><a href="https://aask-web-final.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/AASK_IDE-Photoshop--Style_Visual_IDE-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=0D1117" alt="AASK IDE" /></a><br/><br/><img src="https://img.shields.io/badge/Pipeline-Canvas_%E2%86%92_AST_%E2%86%92_Code-8B5CF6?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Status-Active_Evolution-FF3E00?style=flat-square&labelColor=0D1117" /><br/><br/><b>Next-Gen Visual Software Synthesis</b><br/><sub>AIM Language &rarr; React / Next.js Production Code</sub></div> | <div align="center"><a href="https://g-uard.duckdns.org" target="_blank"><img src="https://img.shields.io/badge/GUARD.AI-Autonomous_Security_Agent-FF3E00?style=for-the-badge&logo=shield&logoColor=white" alt="GUARD.AI" /></a><br/><br/><img src="https://img.shields.io/badge/Response-Sub--Second_Interception-00F7FF?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Deployment-Live_%26_Guarding-10B981?style=flat-square&labelColor=0D1117" /><br/><br/><b>Autonomous Open-Source Threat Interception</b><br/><sub>Real-Time Webhook Analysis &amp; Malicious PR Defense</sub></div> |
+| :--- | :--- |
+| ⚡ **Deterministic Canvas &rarr; AST Engine**: Direct translation from visual canvas hierarchies into production-ready syntax trees.<br/><br/>🧩 **Component Marketplace**: Modular hot-swappable visual UI primitives with instant reactive state binding.<br/><br/>🛡️ **Graph-Based Source Control**: Native OAuth-backed semantic versioning, branching, and tree-diff visualizer.<br/><br/>💻 **Monaco Core &amp; Terminal**: Integrated Monaco LSP editor with real-time multi-file compilation and hot reload.<br/><br/><div align="center"><img src="https://skillicons.dev/icons?i=nextjs,rust,fastapi,docker,ts,tailwind" height="30" alt="AASK Stack" /><br/><br/><a href="https://aask-web-final.vercel.app/"><b>👉 Launch Live AASK IDE Prototype</b></a></div> | 🚨 **Sub-Second Webhook Defense**: Ingests and inspects GitHub webhooks in under 800ms before malicious actions propagate.<br/><br/>🧠 **LLM-Driven Payload Classification**: Multi-layer heuristic scoring classifying AI spam, poisoned PRs, and stealth attacks.<br/><br/>📊 **Real-Time Threat Intelligence Deck**: Live telemetry command center monitoring attack vectors and quarantine logs.<br/><br/>🔍 **Behavioral Anomaly Profiling**: Tracks contributor trust scores to immediately isolate bot rings and hijacked accounts.<br/><br/><div align="center"><img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,aws,docker,githubactions" height="30" alt="GUARD Stack" /><br/><br/><a href="https://g-uard.duckdns.org"><b>👉 Inspect GUARD.AI Threat Intel Deck</b></a></div> |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
@@ -210,7 +152,7 @@ export const arindam: SystemsArchitect = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
@@ -256,7 +198,7 @@ export const arindam: SystemsArchitect = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
@@ -272,7 +214,7 @@ export const arindam: SystemsArchitect = {
 <!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
@@ -311,7 +253,7 @@ export const arindam: SystemsArchitect = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/divider-bubbles.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/legalfaqr/legalfaqr/main/assets/cyber-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <!-- ================================================================================= -->
